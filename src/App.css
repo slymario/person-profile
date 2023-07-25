@@ -21,22 +21,7 @@ img{
   border-radius: 25px !important;
 }
 
-/* button{
-  background-color: rgb(4, 138, 94);
-  color: #fff;
-  font-size: 25px !important;
-  font-family: serif;
-  border: #70fa9e;
-  border-radius: 10px;
-  cursor: grab;
-  padding: 9px 9px 9px 9px;
-  transition-duration: 0.3s;
-}
-button:hover{
-  box-shadow: 0 12px 16px 0 rgba(116, 2, 2, 0.24),0 17px 50px 0 rgba(135, 2, 2, 0.19);
-} */
-
-button {
+button{
   padding: 15px 25px;
   font-size: 25px;
   font-family: serif;
@@ -50,10 +35,10 @@ button {
   border-radius: 10px;
   box-shadow: 0 9px #bcb7b7;
 }
-
-button:hover {background-color: #1f7c22}
-
-button:active {
+button:hover{
+  background-color: #1f7c22
+}
+button:active{
   background-color: #27872c;
   box-shadow: 0 5px #3d3c3c;
   transform: translateY(6px);
